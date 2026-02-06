@@ -37,7 +37,6 @@ Aplikasi mendukung:
 
 ### 📋 Halaman Daftar User  
 *(Export Excel/PDF/Word, Search, Pagination)*  
-👉 **Upload screenshot kedua dengan nama `index.png` agar tampil di sini**
 
 ![Daftar User](https://raw.githubusercontent.com/pranatahilmi375-dev/crud-modern-php/main/home.png)
 
