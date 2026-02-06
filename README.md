@@ -1,47 +1,109 @@
-A modern CRUD users management system built with **PHP Native + MySQL**.  
-This project features a clean UI, responsive components, search functionality, export tools, and modern UI button design.
+# 🚀 Aplikasi CRUD Modern — PHP Native + MySQL
 
----
+Aplikasi CRUD modern ini dibuat menggunakan **PHP Native**, **MySQL**, dan sedikit sentuhan **UI modern** menggunakan CSS custom.  
+Tujuan dari project ini adalah menampilkan kemampuan saya dalam membangun aplikasi web full-stack sederhana namun rapi, clean, dan mudah dikembangkan.
 
-## 🚀 Features
+Aplikasi mendukung:
 
-### 🔹 CRUD (Create, Read, Update, Delete)
-- Add new users  
-- Edit users  
-- Delete users  
-- View full users table  
-
-### 🔹 Search
-- Instant keyword search (real-time filtering)
-
-### 🔹 Export Tools
-- Export to **Excel (.xlsx)**
-- Export to **PDF**
-- Export to **Word (.docx)**  
-- Floating gradient buttons with icons
-
-### 🔹 UI & Styling
-- Gradient modern buttons  
-- Floating action buttons  
-- Clean & simple layout  
-- Fully responsive
+- Tambah data user
+- Edit data user
+- Delete data user
+- Pencarian (search)
+- Pagination
+- Export ke **Excel**, **PDF**, dan **Word**
+- Tampilan UI modern dan responsif
 
 ---
 
 ## 🧰 Tech Stack
 
-| Technology | Description |
-|-----------|-------------|
-| **PHP Native** | Main backend processing |
-| **MySQL** | Database |
-| **HTML5** | Structure |
-| **CSS3** | Custom UI styling |
-| **JavaScript** | Search + UI logic |
-| **XLSX** | Export Excel |
-| **jsPDF** | Export PDF |
-| **docx PHP library** | Export Word |
+| Teknologi | Keterangan |
+|----------|------------|
+| **PHP Native** | Backend logic CRUD |
+| **MySQL** | Database utama |
+| **HTML + CSS** | Tampilan UI modern |
+| **MPDF** | Export PDF |
+| **PhpSpreadsheet** | Export Excel |
+| **PHPWord** | Export Word |
 
 ---
 
-## 📂 Project Structure
+## 📸 Screenshots
+
+### ➕ Form Tambah Data
+![Tambah Data](https://raw.githubusercontent.com/pranatahilmi375-dev/crud-modern-php/main/add.png)
+
+---
+
+### 📋 Halaman Daftar User  
+*(Export Excel/PDF/Word, Search, Pagination)*  
+👉 **Upload screenshot kedua dengan nama `index.png` agar tampil di sini**
+
+![Daftar User](https://raw.githubusercontent.com/pranatahilmi375-dev/crud-modern-php/main/home.png)
+
+---
+
+## ✨ Fitur Utama
+
+### 🔍 1. Search Real-Time  
+Mencari user berdasarkan **nama, email, atau nomor HP**.
+
+### 📄 2. Export Data
+- **Excel** (.xlsx)  
+- **PDF**  
+- **Word** (.docx)
+
+### 🧼 3. UI Modern & Clean
+- Tombol gradient modern  
+- Floating effect  
+- Card form  
+- Table clean
+
+### ➕ 4. CRUD Lengkap
+- Create  
+- Read  
+- Update  
+- Delete  
+
+---
+
+## ⚙️ Instalasi
+
+Ikuti langkah berikut untuk menjalankan aplikasi:
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/pranatahilmi375-dev/crud-modern-php.git
+
+### 2️⃣ Import Database
+
+1. Buka **phpMyAdmin**
+2. Buat database baru dengan nama: **crud_users**
+3. Klik **Import**
+4. Pilih file SQL yang ada di folder `/database`
+5. Jalankan import
+
+---
+
+### 3️⃣ Jalankan Aplikasi
+
+Letakkan folder project ke dalam: htdocs/crud-modern-php/
+
+Akses melalui browser: http://localhost/crud-modern-php/
+
+
+---
+
+## 👤 Author
+
+**Hilmi Pranata**  
+GitHub: https://github.com/pranatahilmi375-dev  
+
+---
+
+## ⭐ Support
+
+Jika project ini bermanfaat, silakan ⭐ star repository ini!
+
+
 
