@@ -41,39 +41,30 @@ Aplikasi mendukung:
 ![Daftar User](https://raw.githubusercontent.com/pranatahilmi375-dev/crud-modern-php/main/home.png)
 
 ---
+## ✨ Fitur Utama
 
-✨ Fitur Utama
-🔍 1. Search
+### 🔍 1. Search Real-Time  
+Mencari user berdasarkan **nama, email, atau nomor HP**.
 
-Mencari user berdasarkan nama, email, atau nomor HP.
+### 📄 2. Export Data
+- **Excel** (.xlsx)  
+- **PDF**  
+- **Word** (.docx)
 
-📄 2. Export Data
+### 🧼 3. UI Modern & Clean
+- Tombol gradient modern  
+- Floating effect  
+- Card form  
+- Table clean
 
-Excel (.xlsx)
+### ➕ 4. CRUD Lengkap
+- Create  
+- Read  
+- Update  
+- Delete  
 
-PDF
+---
 
-Word (.docx)
-
-🧼 3. UI Modern & Clean
-
-Tombol gradient
-
-Floating effect
-
-Form card
-
-Tabel clean & simple
-
-➕ 4. CRUD Lengkap
-
-Create
-
-Read
-
-Update
-
-Delete
 ## ⚙️ Instalasi
 
 Ikuti langkah berikut untuk menjalankan aplikasi:
